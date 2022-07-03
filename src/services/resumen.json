@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "date": "2020-01-02",
+        "visibility": "poor",
+        "comments": "Una cagada el clima"
+    },
+    {
+        "id": 2,
+        "date": "2020-01-03",
+        "visibility": "poor",
+        "comments": "Una cagada el clima x2"
+    },
+    {
+        "id": 3,
+        "date": "2020-01-04",
+        "visibility": "good",
+        "comments": "Una cagada el clima x10"
+    },
+    {
+        "id": 4,
+        "date": "2020-01-05",
+        "visibility": "nice",
+        "comments": "Una cagada el clima x20"
+    },
+    {
+        "id": 5,
+        "date": "2020-01-06",
+        "visibility": "maomeno",
+        "comments": "Tuvo bueno"
+    }
+    ,    {
+        "id": 6,
+        "date": "2020-01-07",
+        "visibility": "meh",
+        "comments": "Pudo haber estado mejor"
+    }
+    ,    {
+        "id": 7,
+        "date": "2020-01-08",
+        "visibility": "pior",
+        "comments": "Casi me estrello"
+    },
+    {
+        "id": 8,
+        "date": "2020-01-09",
+        "visibility": "poor",
+        "comments": "Desde aca se ve que ella no te ama"
+    },    
+    {
+        "id": 9,
+        "date": "2020-01-10",
+        "visibility": "good",
+        "comments": "Fin del diario de un piloto"
+    }
+]
